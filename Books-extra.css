@@ -10,3 +10,14 @@
 .books-content ul {padding-left:24px;margin:0 0 18px;}
 .books-content li {margin-bottom:10px;}
 .books-content .book-link {display:inline-block;margin-top:12px;}
+
+/* Two-cover overview, with the original site's typography and colors. */
+.books-overview .book-showcase {display:grid;grid-template-columns:1fr 1fr;align-items:end;margin:25px 0 65px;gap:35px;}
+.books-overview .cover-link {height:420px;display:flex;align-items:flex-end;justify-content:center;}
+.books-overview .cover-link img {object-fit:contain;display:block;max-width:100%;}
+.books-overview .operations-cover {height:420px;width:444px;}
+.books-overview .winning-cover {height:365px;width:415px;margin-bottom:35px;}
+.books-overview .book-description {margin:0 0 65px;}
+.books-overview .book-description .book-copy {width:100%;}
+.books-overview .book-description h2 {margin:0 0 5px;}
+.books-overview .book-subtitle {font-size:23px;line-height:32px;margin:0 0 24px;}
