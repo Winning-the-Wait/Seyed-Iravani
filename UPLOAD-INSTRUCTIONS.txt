@@ -1,0 +1,3 @@
+Upload all extracted contents to the root of the Seyed-Iravani GitHub repository and commit the changes. Replace existing files when prompted. Keep the images folder intact.
+
+Changes: Books navigation label throughout; both books on Book-cloned.html; original chapter overview moved to Operations-Engineering-and-Management.html; Winning-the-Wait.html placeholder; new transparent book image. Homepage biography unchanged.
