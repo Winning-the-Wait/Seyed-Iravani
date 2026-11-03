@@ -1,0 +1,12 @@
+
+.books-content {position:absolute;left:215px;top:313px;width:985px;font-family:Oswald, sans-serif;color:#000; padding-bottom:100px;}
+.books-content h1 {font-size:37px;margin:0 0 52px;font-weight:700;}
+.books-content h2 {font-size:27px;line-height:29px;margin:0 0 20px;}
+.books-content p {margin:0 0 18px;}
+.books-content .book-row {display:grid;grid-template-columns:328px 657px;align-items:start;margin-bottom:80px;}
+.books-content .book-copy {font-size:16px;line-height:30px;text-align:justify;}
+.books-content .book-art {width:511px;height:466px;object-fit:contain;margin-left:-116px;margin-top:-38px;}
+.books-content .wait-art {width:511px;height:466px;object-fit:contain;margin:-38px 0 0 -116px;}
+.books-content ul {padding-left:24px;margin:0 0 18px;}
+.books-content li {margin-bottom:10px;}
+.books-content .book-link {display:inline-block;margin-top:12px;}
