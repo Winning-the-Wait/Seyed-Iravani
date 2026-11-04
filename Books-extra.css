@@ -1,10 +1,10 @@
 
 .books-content {position:absolute;left:220px;top:329px;width:985px;font-family:Oswald, sans-serif;color:#000; padding-bottom:100px;}
 .books-content h1, .book-page-heading {font-family:Oswald,sans-serif;font-size:37px;line-height:1.1875;margin:0 0 52px;font-weight:700;color:#000;}
-.books-content h2 {font-size:27px;line-height:29px;margin:0 0 20px;}
+.books-content h2 {font-family:Oswald,sans-serif;font-weight:700;font-size:27px;line-height:29px;margin:0 0 20px;}
 .books-content p {margin:0 0 18px;}
 .books-content .book-row {display:grid;grid-template-columns:328px 657px;align-items:start;margin-bottom:80px;}
-.books-content .book-copy {font-size:16px;line-height:30px;text-align:justify;}
+.books-content .book-copy {font-size:17px;line-height:29px;text-align:justify;}
 .books-content .book-art {width:511px;height:466px;object-fit:contain;margin-left:-116px;margin-top:-38px;}
 .books-content .wait-art {width:511px;height:466px;object-fit:contain;margin:-38px 0 0 -116px;}
 .books-content ul {padding-left:24px;margin:0 0 18px;}
